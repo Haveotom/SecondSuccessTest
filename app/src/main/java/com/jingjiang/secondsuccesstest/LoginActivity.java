@@ -19,5 +19,5 @@ public class LoginActivity extends Activity {
 
         //登录界面没写完
 
-    }
+    }    
 }
