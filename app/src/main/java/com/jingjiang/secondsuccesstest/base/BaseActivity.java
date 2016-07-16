@@ -10,6 +10,8 @@ public class BaseActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //啊实打实大师大师大师大师大师大师大师大师大师大师大师大师的
+        
 
     }
 }
